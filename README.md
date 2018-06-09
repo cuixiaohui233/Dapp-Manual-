@@ -8,11 +8,13 @@
 
 ### 直接安装
 
-一言不合就 `npm install -g truffle `啊~
+新建一个空的文件夹，注意一定要是空的，连个 READEME 都不能有
+
+一言不合就 `npm install -g truffle `
 
 `truffle init` 初始化项目，盐后你可以看到：
 
+![image](https://github.com/cuixiaohui233/Dapp-Manual-/blob/master/git-image/success.PNG)
 
- 
 ### 项目结构
 
