@@ -18,3 +18,7 @@
 
 ### 项目结构
 
+![image](https://github.com/cuixiaohui233/Dapp-Manual-/blob/master/git-image/catalog.png)
+
+`contracts 这个文件里面都是你写个智能合约，都是 .sol 文件，里面的语法是 solidity，这个也得学...`
+
