@@ -4,7 +4,7 @@
 
 咳咳，快开始吧!npm install npm run build 开玩笑hhh
 
-以下文章纯属原创，感谢网易云音乐、酷狗音乐的大力支持，特贡献音乐付费包人个一个。
+以下文章纯属原创，感谢网易云音乐、酷狗音乐的大力支持，特贡献音乐付费包APP各一个。
 
 ### 直接安装
 
@@ -16,12 +16,10 @@
 
 ![image](https://github.com/cuixiaohui233/Dapp-Manual-/blob/master/git-image/success.PNG)
 
-### 项目结构
+### 此时的项目结构
 
 ![image](https://github.com/cuixiaohui233/Dapp-Manual-/blob/master/git-image/catalog.png)
 
 `contracts 这个文件里面都是你写的智能合约，都是 .sol 文件，里面的语法是 solidity，这个也得学...`
 
-有点饿，下楼整点吃的...
-
-吃了一宿...
+``
