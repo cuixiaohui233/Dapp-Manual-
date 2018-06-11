@@ -22,4 +22,23 @@
 
 `contracts 这个文件里面都是你写的智能合约，都是 .sol 文件，里面的语法是 solidity，这个也得学...`
 
-``
+`git-image 这是存图片的文件夹`
+
+`migrations 这是 我也不知道是啥...`
+
+### 编译智能合约
+
+`truffle compile contracts/Migrations.sol` 
+
+编译完成如下图：
+
+电脑太卡，自己脑补。
+
+
+这个编译完成之后会形成一个build/contracts/Migrations.json 文件，供前端使用
+
+### 前端调用
+
+如果用 truffle unbox 会形成一个src文件，那个里面就是前端代码，但是这个项目是手动的，所以，自己搞个 create-react-app 进来,然后，调用的库，用的是 web3，详细调用代码请见 https://github.com/cuixiaohui233/solidity-learn 当然了，现在还是空的...
+
+
